@@ -1,1 +1,7 @@
-# tarea01
+TAREA 01
+
+Andres
+Menganito
+Carlos carlitos
+John
+
